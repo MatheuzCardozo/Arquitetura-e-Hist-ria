@@ -1,10 +1,10 @@
 # Arquitetura de Software e sua Evolução Histórica
 
 ## Introdução
-A arquitetura de software representa a estrutura fundamental de um sistema, definindo como seus componentes são organizados, como se comunicam e quais regras orientam seu desenvolvimento e evolução. Uma boa arquitetura busca facilitar manutenção, escalabilidade, testabilidade e evolução do software ao longo do tempo :contentReference[oaicite:0]{index=0}.
+A arquitetura de software representa a estrutura fundamental de um sistema, definindo como seus componentes são organizados, como se comunicam e quais regras orientam seu desenvolvimento e evolução. Uma boa arquitetura busca facilitar manutenção, escalabilidade, testabilidade e evolução do software ao longo do tempo:contentReference[oaicite:0]{index=0}.
 
 ## Conceito de Camadas e Anti-padrões
-Um dos princípios centrais da arquitetura de software é a separação em camadas, cada uma com responsabilidades bem definidas. As camadas clássicas são: apresentação, regras de negócio, persistência e banco de dados. O desrespeito a essa separação gera o *architecture sinkhole anti-pattern*, no qual camadas são ignoradas, causando alto acoplamento, dificuldade de manutenção e baixa escalabilidade :contentReference[oaicite:1]{index=1}.
+Um dos princípios centrais da arquitetura de software é a separação em camadas, cada uma com responsabilidades bem definidas. As camadas clássicas são: apresentação, regras de negócio, persistência e banco de dados. O desrespeito a essa separação gera o *architecture sinkhole anti-pattern*, no qual camadas são ignoradas, causando alto acoplamento, dificuldade de manutenção e baixa escalabilidade:contentReference[oaicite:1]{index=1}.
 
 ## Evolução Histórica das Arquiteturas
 A arquitetura de software evoluiu acompanhando as necessidades tecnológicas:
